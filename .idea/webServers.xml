@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="758e624b-941d-49b9-a513-6bfc7d17e064" name="skyapps-hosting.com" url="http://skyapps-hosting.com">
+        <fileTransfer host="skyapps-hosting.com" port="21" username="skyapps">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
